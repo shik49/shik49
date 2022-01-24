@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shik49
+- 👋 Hi, I’m Shikhar Gupta
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Unsupervised Machine learning. 
 
